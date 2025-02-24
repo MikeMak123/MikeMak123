@@ -8,11 +8,9 @@
   
   🌱 Major in `Computer Science/Software Engineering`
   
-  🧑‍🎓 Currently learning `Machine Learing` and `Pattern Recognition`
+  🧑‍🎓 Currently learning `Machine Learning` and `Pattern Recognition`
 
   🪙 Used to learn `Accounting` for 2 years
-  
-  💵 Interested in `Economy and Market Analysing`
 
   📸 Enjoy `Photographing` 
 
