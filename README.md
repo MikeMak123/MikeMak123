@@ -17,11 +17,11 @@
   📸 Enjoy `Photographing` 
 
   
-  # 📫 How to contact me:
+  #  📫 How to contact me:
   
-    📧  Email:  maixinag211@gamil.com
+  📧  Email:  maixinag211@gamil.com
     
-    📌 ...
+  📌 ...
 
 
 <!--
