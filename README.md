@@ -10,7 +10,7 @@
   
   🧑‍🎓 Currently learning `Machine Learing` and `Pattern Recognition`
 
-  🪙 Used to learning `Accounting` for 2 years
+  🪙 Used to learn `Accounting` for 2 years
   
   💵 Interested in `Economy and Market Analysing`
 
